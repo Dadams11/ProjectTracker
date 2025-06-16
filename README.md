@@ -1,4 +1,3 @@
-# ProjectTracker
 # 📅 Project Tracker
 
 This is a dynamic, responsive Project Tracker web application built using HTML, Bootstrap, jQuery, and Day.js. It allows users to add, view, and delete projects with due dates — making it easy to manage tasks in a visual, color-coded table.
